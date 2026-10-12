@@ -1,0 +1,5 @@
+# Hero asset
+
+Built-in ImageGen tool. Output: dist/assets/curiohub-maker-hero.jpg.
+
+Prompt: Use case: photorealistic-natural. Asset type: CurioHub child enrichment website hero photograph, square composition. Warm authentic editorial lifestyle image of three Indian children ages 7–10 joyfully building a small colourful handmade cardboard rocket and simple wooden structures together at a mint green craft table, with a friendly Indian female instructor gently guiding at the side. Beautiful sunlit neighbourhood after-school maker studio in Hyderabad, cream walls, neatly organized art supplies, coral and sunshine yellow accents. Children wearing casual green, coral and mustard clothing. Natural candid expressions of curiosity and delight, realistic hands and craft materials, premium friendly education brand photography. Faces and hands clearly visible, waist-up eye-level medium framing with subjects centralized to allow rounded crop. Soft afternoon natural light, realistic textures, tasteful colours, no text, no logos, no watermark. Illustrative marketing imagery, no representation of actual enrolled children.
